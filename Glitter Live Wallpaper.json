@@ -2,14 +2,14 @@
   "Ads": [
     {
       "select_main_ads": "ADMOB",
-      "select_backup_ads":"",
+      "select_backup_ads":"ALIEN-M",
       "main_ads_banner": "ca-app-pub-7615880214648928/5650394849",
       "main_ads_intertitial":"ca-app-pub-7615880214648928/4337313174",
       "main_ads_natives":"",
       "backup_ads_natives":"",
       "backup_ads_banner":"",
       "backup_ads_intertitial":"",
-      "open_ads_admob":"",
+      "open_ads_admob":"ca-app-pub-7615880214648928/7187194296",
       "open_ads_alien":"",
       "open_ads_max":"1",
       "interval_intertitial": 5,
